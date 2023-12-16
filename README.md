@@ -1,2 +1,2 @@
-# API-Axios
-En este repositorio encontraran dos aplicaciones. Una es una mini api que expone un .json y la otra es una app que consume la api de datos.gob.ar/georef
+# api-axios
+En este repositorio se encuentran dos aplicaciones. Una de ellas es una pequeña API que ofrece un archivo JSON, mientras que la otra aplicación consume la API de datos.gob.ar/georef
